@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west gutter. Ivo keeps the rebar for the hit. 5 steps, direct on the left lane, open."}
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west gutter. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the pier. Nobody past the west gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":351,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier west gutter. Bess keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west gutter. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Clinic roof. Nobody past the west gutter. We hit in 3 steps. Direct on the left lane, open."}
