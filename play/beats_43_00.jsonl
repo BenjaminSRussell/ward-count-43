@@ -1,3 +1,6 @@
 {"n":1,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the west dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":2,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west dock. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
 {"n":3,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west dock. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":4,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Ward gate. Nobody past the west dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":5,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate west dock. Nia keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
+{"n":6,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west dock. direct left open. 7 steps. The lamp stays for the hit."}
