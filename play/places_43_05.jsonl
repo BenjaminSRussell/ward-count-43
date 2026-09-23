@@ -451,3 +451,6 @@
 {"n":451,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. direct left open. 6 steps. The plywood stays for the hit."}
 {"n":452,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Mast yard. Nobody past the south dock. We hit in 7 steps. Direct on the left lane, open."}
 {"n":453,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south dock. Nia keeps the plywood for the hit. 8 steps, direct on the left lane, open."}
+{"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south dock. direct left open. 2 steps. The plywood stays for the hit."}
+{"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Mast yard. Nobody past the south dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":456,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south dock. Ivo keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
