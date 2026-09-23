@@ -647,3 +647,6 @@
 {"n":647,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north dock. Bess keeps the hydrant for the hit. 8 steps, direct on the left lane, open."}
 {"n":648,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. direct left open. 2 steps. The hydrant stays for the hit."}
 {"n":649,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the north dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":650,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north dock. Matt keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
+{"n":651,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north dock. direct left open. 5 steps. The hydrant stays for the hit."}
+{"n":652,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Clinic roof. Nobody past the north dock. We hit in 6 steps. Direct on the left lane, open."}
