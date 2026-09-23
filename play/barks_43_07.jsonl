@@ -766,3 +766,6 @@
 {"n":766,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west gutter. Matt keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
 {"n":767,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west gutter. direct left open. 5 steps. The barrel stays for the hit."}
 {"n":768,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the west gutter. We hit in 6 steps. Direct on the left lane, open."}
+{"n":769,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west gutter. Nia keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":770,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. direct left open. 8 steps. The barrel stays for the hit."}
+{"n":771,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
