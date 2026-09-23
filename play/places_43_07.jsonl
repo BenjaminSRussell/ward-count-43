@@ -749,3 +749,6 @@
 {"n":749,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. direct left open. 8 steps. The barrel stays for the hit."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":751,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":752,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Lot. Nobody past the west gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":754,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west gutter. Matt keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
