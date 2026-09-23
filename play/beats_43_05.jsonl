@@ -629,3 +629,6 @@
 {"n":629,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Last Light. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":630,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light south dock. Matt keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
 {"n":631,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":632,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Last Light. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":633,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light south dock. Nia keeps the hydrant for the hit. 6 steps, direct on the left lane, open."}
+{"n":634,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south dock. direct left open. 7 steps. The hydrant stays for the hit."}
