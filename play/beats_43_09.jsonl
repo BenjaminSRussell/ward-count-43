@@ -856,3 +856,6 @@
 {"n":856,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at the pier. Nobody past the east gutter. We hit in 8 steps. Direct on the left lane, open."}
 {"n":857,"kind":"place","name":"the pier east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east gutter. Nia keeps the barrel for the hit. 2 steps, direct on the left lane, open."}
 {"n":858,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east gutter. direct left open. 3 steps. The barrel stays for the hit."}
+{"n":859,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the pier. Nobody past the east gutter. We hit in 4 steps. Direct on the left lane, open."}
+{"n":860,"kind":"place","name":"the pier east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east gutter. Ivo keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
+{"n":861,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east gutter. direct left open. 6 steps. The barrel stays for the hit."}
