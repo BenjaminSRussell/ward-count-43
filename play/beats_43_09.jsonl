@@ -136,3 +136,6 @@
 {"n":136,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at the Underpass. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":137,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass west gutter. Nia keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
 {"n":138,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west gutter. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":139,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the Underpass. Nobody past the west gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":140,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west gutter. Ivo keeps the badge door for the hit. 6 steps, direct on the left lane, open."}
+{"n":141,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west gutter. direct left open. 7 steps. The badge door stays for the hit."}
