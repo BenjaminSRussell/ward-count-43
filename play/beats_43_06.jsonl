@@ -13,3 +13,6 @@
 {"n":13,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Switchyard. Nobody past the south dock. We hit in 8 steps. Direct on the left lane, open."}
 {"n":14,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard south dock. Matt keeps the crate for the hit. 2 steps, direct on the left lane, open."}
 {"n":15,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south dock. direct left open. 3 steps. The crate stays for the hit."}
+{"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Switchyard. Nobody past the south dock. We hit in 4 steps. Direct on the left lane, open."}
+{"n":17,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard south dock. Nia keeps the crate for the hit. 5 steps, direct on the left lane, open."}
+{"n":18,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south dock. direct left open. 6 steps. The crate stays for the hit."}
