@@ -854,3 +854,6 @@
 {"n":854,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. direct left open. 4 steps. The awning stays for the hit."}
 {"n":855,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Drydock. Nobody past the north dock. We hit in 5 steps. Direct on the left lane, open."}
 {"n":856,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the awning for the hit. 6 steps, direct on the left lane, open."}
+{"n":857,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north dock. direct left open. 7 steps. The awning stays for the hit."}
+{"n":858,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Drydock. Nobody past the north dock. We hit in 8 steps. Direct on the left lane, open."}
+{"n":859,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north dock. Bess keeps the awning for the hit. 2 steps, direct on the left lane, open."}
