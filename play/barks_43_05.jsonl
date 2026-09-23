@@ -12,3 +12,6 @@
 {"n":12,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north dock. Ivo keeps the drum for the hit. 8 steps, direct on the left lane, open."}
 {"n":13,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north dock. direct left open. 2 steps. The drum stays for the hit."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Switchyard. Nobody past the north dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":15,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north dock. Bess keeps the drum for the hit. 4 steps, direct on the left lane, open."}
+{"n":16,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north dock. direct left open. 5 steps. The drum stays for the hit."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Drydock. Nobody past the north dock. We hit in 6 steps. Direct on the left lane, open."}
