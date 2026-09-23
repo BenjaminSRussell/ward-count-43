@@ -18,3 +18,6 @@
 {"n":18,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. direct left open. 5 steps. The lamp stays for the hit."}
 {"n":19,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Kessler alley. Nobody past the west dock. We hit in 6 steps. Direct on the left lane, open."}
 {"n":20,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
+{"n":21,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. direct left open. 8 steps. The lamp stays for the hit."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west dock. We hit in 2 steps. Direct on the left lane, open."}
+{"n":23,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
