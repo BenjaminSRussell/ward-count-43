@@ -54,3 +54,6 @@
 {"n":54,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west gutter. Matt keeps the crate for the hit. 5 steps, direct on the left lane, open."}
 {"n":55,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west gutter. direct left open. 6 steps. The crate stays for the hit."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at High line. Nobody past the west gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":57,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west gutter. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":58,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west gutter. direct left open. 2 steps. The crate stays for the hit."}
+{"n":59,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at High line. Nobody past the west gutter. We hit in 3 steps. Direct on the left lane, open."}
