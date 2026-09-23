@@ -882,3 +882,6 @@
 {"n":882,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Lot. Nobody past the east dock. We hit in 7 steps. Direct on the left lane, open."}
 {"n":883,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot east dock. Bess keeps the crate for the hit. 8 steps, direct on the left lane, open."}
 {"n":884,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east dock. direct left open. 2 steps. The crate stays for the hit."}
+{"n":885,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Stockyard fence. Nobody past the east dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":886,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the crate for the hit. 4 steps, direct on the left lane, open."}
+{"n":887,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east dock. direct left open. 5 steps. The crate stays for the hit."}
