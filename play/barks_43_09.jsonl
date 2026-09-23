@@ -101,3 +101,6 @@
 {"n":101,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west gutter. Nia keeps the badge door for the hit. 2 steps, direct on the left lane, open."}
 {"n":102,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west gutter. direct left open. 3 steps. The badge door stays for the hit."}
 {"n":103,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the Lot. Nobody past the west gutter. We hit in 4 steps. Direct on the left lane, open."}
+{"n":104,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the badge door for the hit. 5 steps, direct on the left lane, open."}
+{"n":105,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. direct left open. 6 steps. The badge door stays for the hit."}
+{"n":106,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the Lot. Nobody past the west gutter. We hit in 7 steps. Direct on the left lane, open."}
