@@ -824,3 +824,6 @@
 {"n":824,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Switchyard. Nobody past the east dock. We hit in 4 steps. Direct on the left lane, open."}
 {"n":825,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east dock. Nia keeps the awning for the hit. 5 steps, direct on the left lane, open."}
 {"n":826,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east dock. direct left open. 6 steps. The awning stays for the hit."}
+{"n":827,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Switchyard. Nobody past the east dock. We hit in 7 steps. Direct on the left lane, open."}
+{"n":828,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":829,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. direct left open. 2 steps. The awning stays for the hit."}
