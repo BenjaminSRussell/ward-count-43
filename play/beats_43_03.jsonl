@@ -991,3 +991,6 @@
 {"n":991,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Clinic roof. Nobody past the north dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":992,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the crate for the hit. 3 steps, direct on the left lane, open."}
 {"n":993,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. direct left open. 4 steps. The crate stays for the hit."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Clinic roof. Nobody past the north dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":995,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":996,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. direct left open. 7 steps. The crate stays for the hit."}
