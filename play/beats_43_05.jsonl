@@ -833,3 +833,6 @@
 {"n":833,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Clinic roof. Nobody past the south dock. We hit in 3 steps. Direct on the left lane, open."}
 {"n":834,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south dock. Matt keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
 {"n":835,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south dock. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":836,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Clinic roof. Nobody past the south dock. We hit in 6 steps. Direct on the left lane, open."}
+{"n":837,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south dock. Nia keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":838,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south dock. direct left open. 8 steps. The barrel stays for the hit."}
