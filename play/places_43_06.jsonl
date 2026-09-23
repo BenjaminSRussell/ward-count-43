@@ -69,3 +69,6 @@
 {"n":69,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south dock. direct left open. 8 steps. The lamp stays for the hit."}
 {"n":70,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Kessler alley. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":71,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south dock. Bess keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":72,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south dock. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the Lot. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":74,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south dock. Matt keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
