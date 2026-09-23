@@ -870,3 +870,6 @@
 {"n":870,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south dock. Matt keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
 {"n":871,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south dock. direct left open. 6 steps. The barrel stays for the hit."}
 {"n":872,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at High line. Nobody past the south dock. We hit in 7 steps. Direct on the left lane, open."}
+{"n":873,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line south dock. Nia keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":874,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south dock. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":875,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at High line. Nobody past the south dock. We hit in 3 steps. Direct on the left lane, open."}
