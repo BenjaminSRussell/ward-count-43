@@ -130,3 +130,6 @@
 {"n":130,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the south dock. We hit in 6 steps. Direct on the left lane, open."}
 {"n":131,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard south dock. Bess keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
 {"n":132,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. direct left open. 8 steps. The lamp stays for the hit."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
+{"n":134,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light south dock. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":135,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. direct left open. 4 steps. The lamp stays for the hit."}
