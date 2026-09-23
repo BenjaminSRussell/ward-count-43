@@ -712,3 +712,6 @@
 {"n":712,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. direct left open. 8 steps. The hydrant stays for the hit."}
 {"n":713,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":714,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south dock. Matt keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":715,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south dock. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":716,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Ward gate. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":717,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south dock. Nia keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
