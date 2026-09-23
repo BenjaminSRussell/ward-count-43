@@ -132,3 +132,6 @@
 {"n":132,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Clinic roof. Nobody past the west dock. We hit in 6 steps. Direct on the left lane, open."}
 {"n":133,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof west dock. Nia keeps the badge door for the hit. 7 steps, direct on the left lane, open."}
 {"n":134,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. direct left open. 8 steps. The badge door stays for the hit."}
+{"n":135,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Clinic roof. Nobody past the west dock. We hit in 2 steps. Direct on the left lane, open."}
+{"n":136,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":137,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. direct left open. 4 steps. The badge door stays for the hit."}
