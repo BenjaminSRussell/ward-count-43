@@ -556,3 +556,6 @@
 {"n":556,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the east gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":557,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east gutter. Nia keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
 {"n":558,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east gutter. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":559,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Drydock. Nobody past the east gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":560,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east gutter. Ivo keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":561,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east gutter. direct left open. 7 steps. The plywood stays for the hit."}
