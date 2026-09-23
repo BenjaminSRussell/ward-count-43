@@ -219,3 +219,6 @@
 {"n":219,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Stockyard fence. Nobody past the west dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":220,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence west dock. Ivo keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
 {"n":221,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west dock. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the west dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":223,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence west dock. Bess keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":224,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west dock. direct left open. 7 steps. The radio coil stays for the hit."}
