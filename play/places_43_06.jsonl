@@ -648,3 +648,6 @@
 {"n":648,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south dock. direct left open. 6 steps. The shutter stays for the hit."}
 {"n":649,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at South stair. Nobody past the south dock. We hit in 7 steps. Direct on the left lane, open."}
 {"n":650,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair south dock. Matt keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
+{"n":651,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south dock. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":652,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at South stair. Nobody past the south dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":653,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair south dock. Nia keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
