@@ -649,3 +649,6 @@
 {"n":649,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. direct left open. 8 steps. The hydrant stays for the hit."}
 {"n":650,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at South stair. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":651,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south dock. Bess keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":652,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south dock. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":653,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the pier. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":654,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier south dock. Matt keeps the hydrant for the hit. 6 steps, direct on the left lane, open."}
