@@ -965,3 +965,6 @@
 {"n":965,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west gutter. direct left open. 7 steps. The crate stays for the hit."}
 {"n":966,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Underpass. Nobody past the west gutter. We hit in 8 steps. Direct on the left lane, open."}
 {"n":967,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west gutter. Bess keeps the crate for the hit. 2 steps, direct on the left lane, open."}
+{"n":968,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west gutter. direct left open. 3 steps. The crate stays for the hit."}
+{"n":969,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Mast yard. Nobody past the west gutter. We hit in 4 steps. Direct on the left lane, open."}
+{"n":970,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west gutter. Matt keeps the crate for the hit. 5 steps, direct on the left lane, open."}
