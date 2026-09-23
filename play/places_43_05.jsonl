@@ -460,3 +460,6 @@
 {"n":460,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. direct left open. 8 steps. The plywood stays for the hit."}
 {"n":461,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Last Light. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":462,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south dock. Matt keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":463,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south dock. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":464,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Last Light. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":465,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light south dock. Nia keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
