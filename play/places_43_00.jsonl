@@ -174,3 +174,6 @@
 {"n":174,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west dock. direct left open. 7 steps. The rebar stays for the hit."}
 {"n":175,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Ward gate. Nobody past the west dock. We hit in 8 steps. Direct on the left lane, open."}
 {"n":176,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west dock. Ivo keeps the rebar for the hit. 2 steps, direct on the left lane, open."}
+{"n":177,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west dock. direct left open. 3 steps. The rebar stays for the hit."}
+{"n":178,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Ward gate. Nobody past the west dock. We hit in 4 steps. Direct on the left lane, open."}
+{"n":179,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west dock. Bess keeps the rebar for the hit. 5 steps, direct on the left lane, open."}
