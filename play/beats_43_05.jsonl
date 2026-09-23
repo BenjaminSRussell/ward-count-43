@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Clinic roof. Nobody past the south dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":504,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof south dock. Ivo keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
 {"n":505,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south dock. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Clinic roof. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":507,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof south dock. Bess keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":508,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south dock. direct left open. 7 steps. The plywood stays for the hit."}
