@@ -971,3 +971,6 @@
 {"n":971,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west gutter. direct left open. 6 steps. The crate stays for the hit."}
 {"n":972,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Mast yard. Nobody past the west gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":973,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west gutter. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":974,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west gutter. direct left open. 2 steps. The crate stays for the hit."}
+{"n":975,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mast yard. Nobody past the west gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":976,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the crate for the hit. 4 steps, direct on the left lane, open."}
