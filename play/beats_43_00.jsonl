@@ -895,3 +895,6 @@
 {"n":895,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the west dock. We hit in 7 steps. Direct on the left lane, open."}
 {"n":896,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the drum for the hit. 8 steps, direct on the left lane, open."}
 {"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. direct left open. 2 steps. The drum stays for the hit."}
+{"n":898,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mall court. Nobody past the west dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":899,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west dock. Bess keeps the drum for the hit. 4 steps, direct on the left lane, open."}
+{"n":900,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. direct left open. 5 steps. The drum stays for the hit."}
