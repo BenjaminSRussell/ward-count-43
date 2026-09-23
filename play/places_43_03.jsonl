@@ -507,3 +507,6 @@
 {"n":507,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north dock. direct left open. 8 steps. The plywood stays for the hit."}
 {"n":508,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the north dock. We hit in 2 steps. Direct on the left lane, open."}
 {"n":509,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north dock. Nia keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":510,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":511,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Drydock. Nobody past the north dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":512,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
