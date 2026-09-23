@@ -119,3 +119,6 @@
 {"n":119,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west dock. Bess keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
 {"n":120,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. direct left open. 2 steps. The lamp stays for the hit."}
 {"n":121,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Clinic roof. Nobody past the west dock. We hit in 3 steps. Direct on the left lane, open."}
+{"n":122,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":123,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west dock. direct left open. 5 steps. The lamp stays for the hit."}
+{"n":124,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Clinic roof. Nobody past the west dock. We hit in 6 steps. Direct on the left lane, open."}
