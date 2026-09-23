@@ -473,3 +473,6 @@
 {"n":473,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west gutter. direct left open. 5 steps. The plywood stays for the hit."}
 {"n":474,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Mast yard. Nobody past the west gutter. We hit in 6 steps. Direct on the left lane, open."}
 {"n":475,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
+{"n":476,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. direct left open. 8 steps. The plywood stays for the hit."}
+{"n":477,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Last Light. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":478,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west gutter. Matt keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
