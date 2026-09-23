@@ -268,3 +268,6 @@
 {"n":268,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south dock. Ivo keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
 {"n":269,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south dock. direct left open. 4 steps. The radio coil stays for the hit."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the south dock. We hit in 5 steps. Direct on the left lane, open."}
+{"n":271,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence south dock. Bess keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":272,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south dock. direct left open. 7 steps. The radio coil stays for the hit."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mall court. Nobody past the south dock. We hit in 8 steps. Direct on the left lane, open."}
