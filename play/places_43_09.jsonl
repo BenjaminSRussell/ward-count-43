@@ -303,3 +303,6 @@
 {"n":303,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west gutter. direct left open. 8 steps. The radio coil stays for the hit."}
 {"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Underpass. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":305,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west gutter. Nia keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":306,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west gutter. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":307,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Underpass. Nobody past the west gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":308,"kind":"place","name":"the Underpass west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass west gutter. Ivo keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
