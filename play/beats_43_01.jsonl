@@ -552,3 +552,6 @@
 {"n":552,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the east dock. We hit in 6 steps. Direct on the left lane, open."}
 {"n":553,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
 {"n":554,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east dock. direct left open. 8 steps. The hydrant stays for the hit."}
+{"n":555,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east dock. We hit in 2 steps. Direct on the left lane, open."}
+{"n":556,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east dock. Ivo keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":557,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east dock. direct left open. 4 steps. The hydrant stays for the hit."}
