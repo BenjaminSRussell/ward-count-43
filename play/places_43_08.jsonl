@@ -610,3 +610,6 @@
 {"n":610,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. direct left open. 8 steps. The shutter stays for the hit."}
 {"n":611,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Stockyard fence. Nobody past the west gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":612,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence west gutter. Ivo keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
+{"n":613,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west gutter. direct left open. 4 steps. The shutter stays for the hit."}
+{"n":614,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the west gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":615,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west gutter. Bess keeps the shutter for the hit. 6 steps, direct on the left lane, open."}
